@@ -1,2 +1,4 @@
 module HelloWorld {
+	
+	exports HelloWorld;
 }
